@@ -24,9 +24,9 @@ Minhas redes sociais 😊
   <table>            
     <tr>      
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/234898090-fdac8532-2aff-4d3d-b04e-1cea834647cc.png"></td>
-      <td><a href="https://www.instagram.com/berhardt_">Meu nstagram</a></td>
+      <td><a href="https://www.instagram.com/berhardt_">Meu instagram</a></td>
       <td><img height="32" width="32" src="https://user-images.githubusercontent.com/64016811/126900174-9aa8ff7d-84d6-473e-9432-93690827d161.png"></td>
-      <td><a href="https://www.linkedin.com/in/bruno-eberhardt-4954a92b0/" title="Linkedin" >Linkedin</a></td>
+      <td><a href="https://www.linkedin.com/in/bruno-eberhardt-4954a92b0/" title="Linkedin" >Meu Linkedin</a></td>
     </tr>
   </table>
 </div>
