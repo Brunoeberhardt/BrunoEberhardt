@@ -30,10 +30,3 @@ Minhas redes sociais 😊
     </tr>
   </table>
 </div>
-
-Interesses:
-Full-stack development;
-</td><td>
-Databases;
-</td><td>
-Application Programming Interface;
