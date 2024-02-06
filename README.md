@@ -33,5 +33,7 @@ Minhas redes sociais 😊
 
 Interesses:
 Full-stack development;
+</td><td>
 Databases;
+</td><td>
 Application Programming Interface;
